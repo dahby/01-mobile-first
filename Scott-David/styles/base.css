@@ -1,8 +1,20 @@
-.main-nav .icon-menu div ul {
-  display: none;
+.site-header {
+  background-color: rgb(201, 186, 119);
 }
 
+.heading-group-h1 {
+  width: 75%;
+  margin: 0px;
+  float: left;
+}
 
-@media only screen and (min-width: 775px) {
+img {
+  width: 100%;
+}
+#articles h1 {
+  font-size: 5vw;
+}
 
+p {
+  font-size: 3vw;
 }
